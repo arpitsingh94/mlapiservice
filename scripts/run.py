@@ -3,7 +3,7 @@ import sys
 import json
 from time import sleep
 
-baseurl = "http://localhost:3000"
+baseurl = "http://13.126.205.203"
 
 #create model
 createModelPath = "/model"
